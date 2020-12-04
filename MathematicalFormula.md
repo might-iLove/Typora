@@ -35,12 +35,9 @@ $$
 
 # 二、添加数学公式
 
-​	输出美观规范的数学公式 --> 了解数学公式的格式和代码 --> 即在编辑栏输入代码，对应的公式会在下面实时显示![动图](Pictures/20180916125133886)
-
-
+​	输出美观规范的数学公式 --> 了解数学公式的格式和代码 --> 即在编辑栏输入代码，对应的公式会在下面实时显示![动图](../Pictures/20180916125133886)
 
 ---
-
 
 
 
@@ -157,17 +154,32 @@ $$
 
 ## 12.其他特殊字符
 
-|     符号     |  Markdown  |
-| :----------: | :--------: |
-|  $\forall$   |  \forall   |
-|   $\infty$   |   \infty   |
-| $\emptyset$  | \emptyset  |
-|  $\exists$   |  \exists   |
-|   $\nabla$   |   \nabla   |
-|    $\bot$    |    \bot    |
-|   $\angle$   |   \angle   |
-|  $\because$  |  \because  |
-| $\therefore$ | \therefore |
+|         符号         |    Markdown     |
+| :------------------: | :-------------: |
+|      $\forall$       |     \forall     |
+|       $\infty$       |     \infty      |
+|     $\emptyset$      |    \emptyset    |
+|      $\exists$       |     \exists     |
+|       $\nabla$       |     \nabla      |
+|        $\bot$        |      \bot       |
+|       $\angle$       |     \angle      |
+|      $\because$      |    \because     |
+|     $\therefore$     |   \therefore    |
+|       $\surd$        |      \surd      |
+|       $\iint$        |      \iint      |
+|    $\varnothing$     |   \varnothing   |
+|      $\forall$       |     \forall     |
+|      $\exists$       |     \exists     |
+|      $\lozenge$      |    \lozenge     |
+|      $\bigstar$      |    \bigstar     |
+|      $\square$       |     \square     |
+|     $\leftarrow$     |   \leftarrow    |
+|     $\Leftarrow$     |   \Leftarrow    |
+|  $\leftrightarrow$   | \leftrightarrow |
+|  $\Leftrightarrow$   | \Leftrightarrow |
+| $\rightleftharpoons$ | \Leftrightarrow |
+|      $\mapsto$       |     \mapsto     |
+|       $\notin$       |     \notin      |
 
 
 

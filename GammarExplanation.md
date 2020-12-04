@@ -336,19 +336,19 @@ int main()
 
 ​										 (将`\`换成`/` ---->  加上`图片名称.后缀`)
 
-![壁纸](Pictures/0c200beee1c1b0751939dcd0a04e0505.jpg)
+![](../Pictures/0c200beee1c1b0751939dcd0a04e0505.jpg)
 
 
 
 ![壁纸][1]
 
-[1]:Pictures/88313b69a8fdb06db14d6f577e3c7dae.jpg
+[1]:D:\陈宇鹏\Markdown\Pictures\88313b69a8fdb06db14d6f577e3c7dae.jpg
 
 
 
-**(2).**网络图片：点击图片右键-->检查元素-->双击URL-->拷贝地址
 
-![IU](Pictures/timg)
+
+**(2).**网络图片：点击图片右键-->检查元素-->双击URL-->拷贝地址![IU](../Pictures/timg)‪
 
 
 

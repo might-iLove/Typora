@@ -1,6 +1,6 @@
 # 前言
 
-​	**setting中主要讲解了一些列关于Typora编辑器的进阶功能的实现问题**
+​		**setting中主要讲解了一些列关于Typora编辑器的进阶功能的实现问题**
 
 ---
 
@@ -10,9 +10,9 @@
 
 ## 1.主题文件夹
 
-​	**找到主题文件夹：**
+​		**找到主题文件夹：**
 
-​			文件-->设置-->偏好设置-->外观-->打开主题文件夹![主题文件夹](Pictures/20190404161453831.png)
+​				文件-->设置-->偏好设置-->外观-->打开主题文件夹 ![主题文件夹](D:\陈宇鹏\Markdown\Pictures\20190404161453831.png)
 
 
 
@@ -20,7 +20,7 @@
 
 ## 2.base.user文件(css)
 
-​	**在主题文件夹中新建一个名称为base.user的css文件**
+​		**在主题文件夹中新建一个名称为base.user的css文件**
 
 
 
@@ -120,7 +120,7 @@ h6.md-focus:before {
 
 ## 4.重启Typora
 
-​	**重启Typora，即可实现标题自动编号**
+​		**重启Typora，即可实现标题自动编号**
 
 
 
@@ -130,11 +130,11 @@ h6.md-focus:before {
 
 ### 标题自动编号官方说明
 
-​	**官方地址：[Auto Numbering for Heading]([Auto Numbering for Headings (typora.io)](http://support.typora.io/Auto-Numbering/))**
+​		**官方地址：[Auto Numbering for Heading]([Auto Numbering for Headings (typora.io)](http://support.typora.io/Auto-Numbering/))**
 
 ### 添加CSS说明(源代码)
 
-​	**源代码URL：[Add-Custom-CSS]([Auto Numbering for Headings (typora.io)](http://support.typora.io/Auto-Numbering/))**
+​		**源代码URL：[Add-Custom-CSS]([Auto Numbering for Headings (typora.io)](http://support.typora.io/Auto-Numbering/))**
 
 
 
@@ -146,12 +146,12 @@ h6.md-focus:before {
 
 ## 1.Typora高亮模式
 
-​	**打开方式：**文件-->偏好设置-->Markdown-->Markdown扩展语法中选择代码高亮-->重启Typora即可
+​		**打开方式：**文件-->偏好设置-->Markdown-->Markdown扩展语法中选择代码高亮-->重启Typora即可
 ​		![动图](https://img-blog.csdnimg.cn/20200920101054257.gif#pic_left)
 
-​	**背景颜色、字体颜色的编号**
+​	
 
-​	![编号](Pictures/background.png)
+**背景颜色、字体颜色的编号**![编号](D:\陈宇鹏\Markdown\Pictures\background.png)
 
 
 
@@ -159,8 +159,8 @@ h6.md-focus:before {
 
 ## 2.更改代码高亮配色
 
-​	**打开方式：**文件 --> 偏好设置 --> 外观 --> 打开主题文件夹 --> night.css文件 --> Ctrl+F 搜索 mark --> 修改background(背景颜色)和color(字体颜色) --> 保存
-​	![动图](Pictures/20200920104332324.gif)
+​		**打开方式：**文件 --> 偏好设置 --> 外观 --> 打开主题文件夹 --> night.css文件 --> Ctrl+F 搜索 mark --> 修改background(背景颜色)和color(字体颜色) --> 保存
+​	![动态图](D:\陈宇鹏\Markdown\Pictures\20200920104332324.gif)
 
 
 
@@ -168,8 +168,8 @@ h6.md-focus:before {
 ---
 ## 3.设置高亮快捷键
 
-​	**设置方式:**文件 --> 偏好设置 --> 通用 --> 打开高级设置 --> 存在两个json文件(打开其中一个) --> 在 “keyBinding” 中添加 “Highlight”:“Ctrl+Shift+H” --> 保存 --> 另一个json文件也在 “keyBinding” 中添加 “Highlight”:“Ctrl+Shift+H” --> 保存
-​	![动图](Pictures/20200920110453114.gif)
+​		**设置方式:**文件 --> 偏好设置 --> 通用 --> 打开高级设置 --> 存在两个json文件(打开其中一个) --> 在 “keyBinding” 中添加 “Highlight”:“Ctrl+Shift+H” --> 保存 --> 另一个json文件也在 “keyBinding” 中添加 “Highlight”:“Ctrl+Shift+H” --> 保存
+​	![动图](D:\陈宇鹏\Markdown\Pictures\20200920110453114.gif)
 
 
 
@@ -181,7 +181,7 @@ h6.md-focus:before {
 
 ## 1.设置方式
 
-​	文件 --> 偏好设置 --> 通用 --> 打开高级设置 --> 存在两个json文件(打开其中一个) --> 在 “keyBinding” 中添加快捷键代码  --> 保存 --> 另一个json文件也在 “keyBinding” 中添加快捷键代码 --> 保存
+​		文件 --> 偏好设置 --> 通用 --> 打开高级设置 --> 存在两个json文件(打开其中一个) --> 在 “keyBinding” 中添加快捷键代码  --> 保存 --> 另一个json文件也在 “keyBinding” 中添加快捷键代码 --> 保存
 
 ## 2.快捷键代码
 
