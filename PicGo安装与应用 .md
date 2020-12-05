@@ -44,7 +44,7 @@
 
 
 
-* 找到Developer settings --> 点击进入!![2](https://raw.githubusercontent.com/might-iLove/clouding/main/img/math 2.2 2.png)
+* 找到Developer settings --> 点击进入!![3](https://raw.githubusercontent.com/might-iLove/clouding/main/img/m3.jpg)
 
 
 
