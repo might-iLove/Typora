@@ -1,7 +1,4 @@
----
 
-typora-copy-images-to: ..\Pictures
----
 
 [TOC]
 
@@ -341,7 +338,7 @@ int main()
 
 ​										 (将`\`换成`/` ---->  加上`图片名称.后缀`)
 
-![](../Pictures/Grammar.jpg)
+![](https://raw.githubusercontent.com/might-iLove/clouding/main/img/Grammar.jpg)
 
 
 
