@@ -1,3 +1,8 @@
+---
+
+typora-copy-images-to: ..\Pictures
+---
+
 [TOC]
 
 
@@ -336,7 +341,7 @@ int main()
 
 ​										 (将`\`换成`/` ---->  加上`图片名称.后缀`)
 
-![](../Pictures/0c200beee1c1b0751939dcd0a04e0505.jpg)
+![](../Pictures/Grammar.jpg)
 
 
 
@@ -348,7 +353,7 @@ int main()
 
 
 
-**(2).**网络图片：点击图片右键-->检查元素-->双击URL-->拷贝地址![IU](../Pictures/timg)‪
+**(2).**网络图片：点击图片右键-->检查元素-->双击URL-->拷贝地址![](/iu.jpg)
 
 
 

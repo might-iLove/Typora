@@ -151,7 +151,7 @@ h6.md-focus:before {
 
 ​	
 
-**背景颜色、字体颜色的编号**![编号](D:\陈宇鹏\Markdown\Pictures\background.png)
+**背景颜色、字体颜色的编号**![](../Pictures/background.png)
 
 
 
@@ -160,7 +160,7 @@ h6.md-focus:before {
 ## 2.更改代码高亮配色
 
 ​		**打开方式：**文件 --> 偏好设置 --> 外观 --> 打开主题文件夹 --> night.css文件 --> Ctrl+F 搜索 mark --> 修改background(背景颜色)和color(字体颜色) --> 保存
-​	![动态图](D:\陈宇鹏\Markdown\Pictures\20200920104332324.gif)
+​	![动图](https://raw.githubusercontent.com/might-iLove/clouding/main/img/theme.gif)
 
 
 
@@ -169,7 +169,7 @@ h6.md-focus:before {
 ## 3.设置高亮快捷键
 
 ​		**设置方式:**文件 --> 偏好设置 --> 通用 --> 打开高级设置 --> 存在两个json文件(打开其中一个) --> 在 “keyBinding” 中添加 “Highlight”:“Ctrl+Shift+H” --> 保存 --> 另一个json文件也在 “keyBinding” 中添加 “Highlight”:“Ctrl+Shift+H” --> 保存
-​	![动图](D:\陈宇鹏\Markdown\Pictures\20200920110453114.gif)
+![DIY](https://raw.githubusercontent.com/might-iLove/clouding/main/img/DIY.gif)
 
 
 

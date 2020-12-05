@@ -123,3 +123,12 @@
 
 
 * Typora中插入图片后点击上传 --> 图片将通过PicGo上传到GitHub的repository --> 传输Typora文件时不需要将图片打包上传
+
+
+
+---
+
+
+
+## 6.
+
