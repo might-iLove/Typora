@@ -34,13 +34,13 @@
 * 点击GitHub主页上的`+` --> 创建`new repository`
 * 填写repository信息 --> 设置为public(需要客户端访问 --> 客户端访问属于外部访问 --> 即无法访问private --> 则上传到repository中的图片只能存储，不能正常显示)
 
-![](https://raw.githubusercontent.com/might-iLove/clouding/main/img/math 2.1.png)
+
 
 
 
 ### 2.2 创建Token复制保存
 
-* repository已经创建 -->  点击右上角的头像 --> 进入settings![1](https://raw.githubusercontent.com/might-iLove/clouding/main/img/math 2.2 1.png)
+* repository已经创建 -->  点击右上角的头像 --> 进入settings![](https://raw.githubusercontent.com/might-iLove/clouding/main/img/math 2.2 1.jpg)
 
 
 
