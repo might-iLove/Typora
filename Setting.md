@@ -151,7 +151,7 @@ h6.md-focus:before {
 
 ​	
 
-**背景颜色、字体颜色的编号**![](../Pictures/background.png)
+**背景颜色、字体颜色的编号**![](https://raw.githubusercontent.com/might-iLove/clouding/main/img/background.png)
 
 
 

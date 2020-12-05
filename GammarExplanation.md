@@ -342,17 +342,11 @@ int main()
 
 
 
-![壁纸][1]
-
-[1]:D:\陈宇鹏\Markdown\Pictures\88313b69a8fdb06db14d6f577e3c7dae.jpg
+![](https://raw.githubusercontent.com/might-iLove/clouding/main/img/海贼王.jpg)
 
 
 
-
-
-**(2).**网络图片：点击图片右键-->检查元素-->双击URL-->拷贝地址![](/iu.jpg)
-
-
+**(2).**网络图片：点击图片右键-->检查元素-->双击URL-->拷贝地址![](https://raw.githubusercontent.com/might-iLove/clouding/main/img/iu.jpg)
 
 ---
 
