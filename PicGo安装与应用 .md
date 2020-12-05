@@ -40,7 +40,7 @@
 
 ### 2.2 创建Token复制保存
 
-* repository已经创建 -->  点击右上角的头像 --> 进入settings![](https://raw.githubusercontent.com/might-iLove/clouding/main/img/math 2.2 1.jpg)
+* repository已经创建 -->  点击右上角的头像 --> 进入settings![](https://raw.githubusercontent.com/might-iLove/clouding/main/img/a.jpg)
 
 
 
